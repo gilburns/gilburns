@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 👀 I’m interested in Music, Movies, Technology, The Simpsons and everything Apple
+- ⚡ Fun fact: I've managed endpoint devices using LANDesk, Symantec Altiris, Jamf Pro and Microsoft Intune
+- 📫 How to reach me: [MacAdmins Slack](https://macadmins.slack.com/team/U069Z4N5Q)
+- 📫 How to reach me: [gilburns.com](https://gilburns.com)
+
 <!--
 **gilburns/gilburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
