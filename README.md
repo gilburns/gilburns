@@ -5,7 +5,6 @@
 - 🔗 How to reach me: [LinkedIn](https://www.linkedin.com/in/gilburns)
 - 🖥 How to reach me: [MacAdmins Slack](https://macadmins.slack.com/team/U069Z4N5Q)
 - 🕸 How to reach me: [gilburns.com](https://gilburns.com)
-- 
 
 <!--
 **gilburns/gilburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
