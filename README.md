@@ -12,8 +12,8 @@ If you find the projects useful, you can support me by buying a coffee,
 
 
 [![GilBurns' GitHub stats](https://vercel.gilburns.com/api?username=gilburns&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/gilburns)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gilburns&theme=transparent)](https://git.io/streak-stats)  
-[![Top Langs](https://vercel.gilburns.com/api/top-langs/?username=gilburns&layout=compact&hide=html)](https://github.com/gilburns/)  
+[![GitHub Streak](http://github-readme-streak-stats.gilburns.com?user=gilburns&theme=transparent)](https://github.com/gilburns)  
+[![Top Langs](https://vercel.gilburns.com/api/top-langs/?username=gilburns&layout=compact&hide=html)](https://github.com/gilburns)  
 
 
 <!--
